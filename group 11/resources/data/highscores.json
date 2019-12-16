@@ -1,0 +1,16 @@
+{
+    "highscores": [
+        {
+            "name": "ALPHA",
+            "score": 3
+        },
+        {
+            "name": "BETA",
+            "score": 2
+        },
+        {
+            "name": "GAMMA",
+            "score": 1
+        }
+    ]
+}
