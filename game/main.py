@@ -1,6 +1,5 @@
 
 # Gusto Kong Sumabog
-# Group 11
 
 # font used: "Peace Sans" by Jovanny Lemonad, licensed under the SIL Open Font License
 # pyglet learning resource: https://pyglet.readthedocs.io/en/stable/ by Alex Holkner
@@ -10,11 +9,10 @@
 # Audio (game_over_music.wav) derived from: 
 # [ Pinoy Big Brother]. (2018, October 27). PBB balikbahay: Boys vs. girls food war. Retrieved from https://www.youtube.com/watch?v=8ylELL7r7UE
 
-# All the other music and sfx are original
+
 
 import pyglet
 from engine import game_objects, window_objects, resources, util
-
 
 class GameWindow(pyglet.window.Window):
 	def __init__(self, *args, **kwargs):

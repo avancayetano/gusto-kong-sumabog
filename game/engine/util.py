@@ -1,6 +1,5 @@
 # this module contains utility functions
 
-
 import json
 
 # checks if the mouse position is inside the sprite

@@ -1,2 +1,5 @@
-# gusto-kong-sumabog
-mga words
+# GUSTO KONG SUMABOG
+
+A simple typing game
+
+*mga words*
